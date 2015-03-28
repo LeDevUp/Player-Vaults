@@ -1,0 +1,6 @@
+name: PlayerVault
+version: 1.0.0
+main: me.devup.pv.Main
+
+commands:
+     vault:

@@ -1,0 +1,5 @@
+# This is the total number of slots within a vault. Note: this number must be a multiple of nine or the plugin will break.
+VaultSize: 27
+
+# Below is the message sent to an user when they run the /vault command.
+VaultOpening: '&aOpening player vault...'
